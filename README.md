@@ -24,13 +24,13 @@ The system is not dependent on real-time internet and simulates wartime resilien
 
 ## How will it Work
  Event Trigger (enemy, ammo, SOS)
-↓
+->
  Pre-set coded messages (like A101: Ammo Low)
-↓
+->
 Auto attach location (approx coordinates)
-↓
+->
 Timestamp recorded
-↓
+->
 Calculate NEAREST cantonment (from fixed DB)
-↓
-📨 Store message locally or trigger offline transmission
+->
+Store message locally or trigger offline transmission
